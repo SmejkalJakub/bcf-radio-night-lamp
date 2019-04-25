@@ -1,1 +1,1 @@
-Firmware for Night Lamp project, all set up and ready to be flashed into the Core Module. Visit my project here: <a href="https://www.hackster.io/jakub-smejkal/bigclown-night-lamp-527ed7">
+Firmware for Night Lamp project, all set up and ready to be flashed into the Core Module. Visit my project <a href="https://www.hackster.io/jakub-smejkal/bigclown-night-lamp-527ed7">here</a>
