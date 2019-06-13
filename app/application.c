@@ -36,7 +36,6 @@ const bc_led_strip_buffer_t led_strip_buffer =
 void bc_night_lamp_time_set(uint64_t *id, const char *topic, void *value, void *param)
 {
     lightTime = *(int *)value;
-    bc_log_debug("%d", lightTime);
 }
 
 static struct
@@ -131,8 +130,6 @@ void pir_event_handler(bc_module_pir_t *self, bc_module_pir_event_t event, void 
 
 void application_init(void)
 {
-    // Initialize logging
-    bc_log_init(BC_LOG_LEVEL_DUMP, BC_LOG_TIMESTAMP_ABS);
 
     // Initialize radio
     bc_radio_init(BC_RADIO_MODE_NODE_LISTENING);
