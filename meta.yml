@@ -1,10 +1,10 @@
-article: https://www.hackster.io/155172/bigclown-night-lamp-527ed7
+article: https://www.hackster.io/155172/hardwario-iot-kit-night-lamp-527ed7
 articles:
-  - title: BigClown Night Lamp
+  - title: HARDWARIO IoT Kit Night Lamp
     url: https://www.hackster.io/155172/bigclown-night-lamp-527ed7
     description: You will never have to find your light switch again in the night, just walk into your bathroom and lights are on.
     images:
-      - url: https://hackster.imgix.net/uploads/attachments/896436/toilet_night_lamp_TDU7syKZL7.png?auto=compress%2Cformat&w=900&h=675&fit=min
+      - url: https://hackster.imgix.net/uploads/attachments/1050356/_zCRbeEApHQ.blob?auto=compress%2Cformat&w=900&h=675&fit=min
 assembly:
   - name: BigClown Climate Module
   - name: BigClown Core Module
